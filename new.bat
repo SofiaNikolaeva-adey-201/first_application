@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Users\admin\source\repos\first_application\tracker.ui -o C:\Users\admin\source\repos\first_application\tracker.py
